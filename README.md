@@ -35,4 +35,4 @@ Let’s connect and collaborate on exciting projects that push the boundaries of
 
 ![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiketanGuptain&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiketanGuptainl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiketanGuptain&layout=compact)
